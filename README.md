@@ -14,4 +14,4 @@ Github thực hành 05_Bai 3.1 của Nhóm 9 - Học phần E07 - Nền tảng c
     - **Mã số sinh viên:** B2508385
 
 ## Mô tả nội dung thực hành
-Đây là bài nộp cho buổi thực hành số 04. Trong buổi này, Nhóm em đã thực hiện các nhiệm vụ bao gồm: Tạo mã nguồn HTML hiển thị nội dung số
+Đây là bài nộp cho buổi thực hành số 05. Trong buổi này, Nhóm em đã thực hiện các nhiệm vụ bao gồm: Tạo mã nguồn HTML hiển thị nội dung số
